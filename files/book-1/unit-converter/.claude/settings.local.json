@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py --version)",
+      "Bash(where python3 *)",
+      "Bash(py -m pytest --version)",
+      "Bash(py -m pytest -q)",
+      "Bash(py convert.py 1 cup ml)",
+      "Bash(py convert.py 20 usd eur)",
+      "Bash(py convert.py 1 cup furlong)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(py convert.py 5 usd meters)"
+    ]
+  }
+}

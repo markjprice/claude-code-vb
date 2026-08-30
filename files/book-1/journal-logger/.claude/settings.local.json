@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m unittest -v)",
+      "Bash(python journal.py \"first note\")",
+      "Bash(python journal.py \"second note\")",
+      "Bash(python journal.py)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(py -m unittest -v)",
+      "Bash(py journal.py \"first note\")",
+      "Bash(py journal.py \"second note\")",
+      "Bash(py journal.py)"
+    ]
+  }
+}
