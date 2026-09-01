@@ -21,7 +21,7 @@ Follow these steps to install Node.js using the official Windows installer:
 1. Open your browser and go to https://nodejs.org.
 2. Select the latest **LTS** version and then select the **Windows Installer (.msi)** button. This downloads a file ending in `.msi`.
 
-![Download the Node.js Windows Installer MSI](download-nodejs-win.png)
+![Download the Node.js Windows Installer MSI](nodejs-download-win.png)
 
 3. Open the downloaded `.msi` file to start the installer.
 4. Click **Next**, accept the license agreement, and click **Next** again.
@@ -31,6 +31,8 @@ Follow these steps to install Node.js using the official Windows installer:
 8. Click **Finish** once the installer completes.
 
 You should now see Node.js listed in your Start menu.
+
+![Start node.js on Windows](nodejs-run-win.png)
 
 ## Install Node.js on Mac
 
